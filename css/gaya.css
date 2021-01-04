@@ -1,0 +1,21 @@
+
+.download-wrapper {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.appstore {
+position: absolute;
+width: 120px;
+height: 40px;
+left: 620px;
+top: 360px;
+}
+
+.playstore {
+position: absolute;
+width: 120px;
+height: 40px;
+left: 480px;
+top: 360px;
+}
